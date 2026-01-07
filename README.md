@@ -121,7 +121,7 @@ This project focuses on improving research productivity and demonstrates full-st
 ---
 
 ## 👩‍💻 Author
-**Sakshi Koganole**  
+**Sakshi Kognole**  
 AI & Backend Developer  
 Spring Boot | Chrome Extensions | AI Integration  
 
